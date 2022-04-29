@@ -166,7 +166,8 @@ class _MyHomePageState extends State<MyHomePage> {
         child: Center(
           child: Text(
             _currentQuestion ?? "",
-            style: Theme.of(context).textTheme.headline4,
+            textAlign: TextAlign.center,
+            style: Theme.of(context).textTheme.headline5,
           ),
         ),
       ),
