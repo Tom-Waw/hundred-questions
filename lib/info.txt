@@ -1,0 +1,10 @@
+fonts: 
+Futura PT
+Lofty Goals
+
+colors:
+#C4A699 - helles beige
+#DA947F - orange
+#606C95 - helles blau
+#233667 - mittleres blau
+#101442 - dunkelblau
